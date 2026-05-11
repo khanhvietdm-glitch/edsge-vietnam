@@ -1,0 +1,15 @@
+﻿Parameter,Gelman-Rubin Rhat,Geweke z-stat,Geweke p-value,ESS,Status
+rho_R,1.004,0.483,0.629,4821,Converged
+phi_pi,1.007,-0.712,0.476,3947,Converged
+phi_y,1.003,0.318,0.751,5134,Converged
+kappa_P,1.012,-1.241,0.215,3218,Converged
+kappa_I,1.006,0.627,0.531,4512,Converged
+rho_A,1.002,-0.394,0.694,5387,Converged
+rho_G,1.008,0.853,0.394,4103,Converged
+rho_tau,1.005,-0.571,0.568,4729,Converged
+rho_E,1.009,1.127,0.26,3856,Converged
+sigma_A,1.003,-0.284,0.776,5612,Converged
+sigma_R,1.002,0.167,0.867,5891,Converged
+sigma_G,1.006,-0.743,0.458,4387,Converged
+sigma_tau,1.011,1.342,0.18,3541,Converged
+sigma_E,1.008,-0.918,0.359,3974,Converged

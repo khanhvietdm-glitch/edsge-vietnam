@@ -1,0 +1,17 @@
+﻿Parameter,Value,Description,Source
+beta,0.96,Discount factor (annual),"Standard, ~4%/yr real rate"
+eta,3.681,Radiative forcing coefficient,DICE-2016R
+ECS,3.0,Equilibrium climate sensitivity,IPCC AR6
+d2,0.00236,Damage function curvature,DICE-2016R
+"d0, d1",0.0,Damage function (linear terms),DICE-2016R
+phi11,0.88,Carbon transition: ATM retention,DICE-2016R (annual)
+phi12,0.12,Carbon transition: ATM->UP,DICE-2016R (annual)
+phi22,0.9975,Carbon transition: UP retention,DICE-2016R (annual)
+phi33,0.999,Carbon transition: LO retention,DICE-2016R (annual)
+xi1,0.098,Temperature adjustment speed,DICE-2016R (annual)
+xi2,1.13,Climate feedback parameter,DICE-2016R
+xi3,0.73,Ocean heat exchange coeff.,DICE-2016R
+xi4,0.025,Deep ocean heat uptake,DICE-2016R (annual)
+MAT_1750,588.0,Pre-industrial atmospheric CO2,DICE-2016R
+MAT_2020,851.0,Current atmospheric CO2 (GtC),DICE-2016R
+pi_ss,1.0,Steady-state gross inflation,Normalization

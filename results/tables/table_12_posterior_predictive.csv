@@ -1,0 +1,9 @@
+﻿Statistic,Observed,Simulated Mean,Simulated SD,p-value
+Std(d ln Y),0.0155,0.0148,0.0031,0.58
+Std(pi),0.1598,0.1423,0.0387,0.33
+Std(i),0.0311,0.0297,0.0068,0.42
+Std(d ln E),0.0288,0.0264,0.0054,0.34
+"Corr(d ln Y, pi)",0.31,0.28,0.14,0.41
+"Corr(d ln Y, d ln E)",0.52,0.47,0.12,0.35
+AR(1) d ln Y,0.42,0.38,0.11,0.37
+AR(1) pi,0.67,0.61,0.09,0.26

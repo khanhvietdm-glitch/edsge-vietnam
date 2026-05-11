@@ -1,0 +1,7 @@
+﻿Variable,Definition,Transformation,Frequency,Primary Source
+Y_t,Real GDP,Log-difference,Annual,"GSO, WDI"
+C_t,Private consumption,Log-difference,Annual,GSO National Accounts
+I_t,Gross fixed investment,Log-difference,Annual,GSO National Accounts
+pi_t,CPI inflation,Log-diff. of CPI,Annual,GSO
+i_t,Nominal interest rate,Level (annualized),Annual,"SBV, Interbank"
+E_t,CO2 emissions,Log-difference,Annual,"EDGAR, UNFCCC NIR"

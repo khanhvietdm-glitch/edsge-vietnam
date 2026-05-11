@@ -1,0 +1,7 @@
+﻿,Mean,Std. Dev.,Min,Max,Obs.
+d ln Y_t (GDP growth),0.066,0.015,0.034,0.095,34
+d ln C_t (Consumption growth),0.057,0.02,0.018,0.092,34
+d ln I_t (Investment growth),0.085,0.041,0.014,0.177,34
+pi_t (CPI inflation),0.073,0.042,0.006,0.175,34
+i_t (Nominal interest rate),0.08,0.023,0.042,0.118,34
+d ln E_t (Emission growth),0.046,0.037,-0.024,0.112,34

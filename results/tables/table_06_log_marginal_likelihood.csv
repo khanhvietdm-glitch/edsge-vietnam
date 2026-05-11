@@ -1,0 +1,6 @@
+﻿Model Specification,Log ML (Laplace),Log ML (MHM),Log BF vs. Baseline
+Baseline (5 obs. variables),-412.37,-413.81,0.0
+"Extended (6 obs. vars, incl. emissions)",-398.52,-399.14,13.85
+No climate block,-428.91,-430.27,-16.54
+CPI replaced by GDP deflator,-415.83,-416.52,-3.46
+Real interest rate,-419.26,-420.08,-6.89
