@@ -1,0 +1,10 @@
+﻿Economy,SCC range ($/tCO2),Model,Sample,Estimation,Reference
+Vietnam (this paper),$38.7-$61.2,Annual E-DSGE + DICE,1990-2023 (T=34),Bayesian RWMH,Vu/Le/Pham (2026)
+China,$32.5-$72.0,Annual E-DSGE,1995-2020 (T=26),Bayesian MCMC,Cai et al. (2022)
+India,$28.4-$58.6,DICE-PAGE hybrid,1990-2020 (T=31),Calibration,Pindyck (2019)
+Indonesia,$24.7-$49.1,Quarterly E-DSGE,2000-2022 (T=92Q),Bayesian,Sutarsa et al. (2021)
+Brazil,$31.8-$67.3,Annual E-DSGE,1990-2021 (T=32),Bayesian,Schubert (2020)
+South Africa,$33.1-$55.8,Annual DSGE,1994-2020 (T=27),Calibration,Botha et al. (2021)
+Mexico,$26.5-$54.2,Annual E-DSGE,1995-2021 (T=27),Bayesian,Rodriguez & Aguilar (2022)
+United States (reference),$51.0-$185.0,DICE/RICE/PAGE/FUND,1900-2022 (T=123),Multiple methods,EPA (2023)
+European Union (reference),$66.0-$143.0,QUEST + EU ETS,1995-2022 (T=28),GE simulation,European Commission (2023)

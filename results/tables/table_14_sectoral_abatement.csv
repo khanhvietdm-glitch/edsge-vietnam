@@ -1,0 +1,10 @@
+﻿Sector ID,Sector,GVA share,Employment share,Carbon intensity (tCO2/$k),Emission share (%),Abatement potential @ $50,MAC at full abate
+1,"Agriculture, forestry, fishing",12.1%,41.9%,0.45,5.44,29.6%,$28
+2,Mining and quarrying,6.8%,1.0%,2.85,19.50,19.3%,$14
+3,Manufacturing,28.1%,16.6%,1.32,37.04,25.2%,$21
+4,"Electricity, gas, steam",7.0%,7.1%,4.78,33.54,34.1%,$34
+5,"Water supply, sewerage, waste",14.7%,15.3%,0.92,13.50,26.7%,$23
+6,Construction,2.9%,3.0%,0.38,1.12,28.1%,$25
+7,Wholesale and retail trade,17.0%,4.7%,0.21,3.58,20.7%,$16
+8,Transportation and storage,10.8%,8.4%,1.85,19.93,28.1%,$25
+9,Other services,0.6%,2.0%,0.08,0.04,16.3%,$11
